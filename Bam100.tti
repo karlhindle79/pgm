@@ -1,8 +1,8 @@
 DE,White city graphics template
 DS,inserter
 SP,C:\Bamboozle\Bam100.tti
-PN,10000
-SC,0000
+PN,10001
+SC,0001
 PS,8000
 CT,8,T
 RE,0
@@ -31,3 +31,11 @@ OL,21,W  www5o/?ojpppppppz
 OL,22,W  ===5~|}~jppp5 upz                    
 OL,23,W  www5                                 
 OL,24,A  Link1   BLink2   CLink4  FLink4      
+PN,10002
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,New subpage inserted 2/2                
+OL,6,         ITS AWESOME                    
