@@ -1,24 +1,25 @@
 DE,Read back paige  14/12/01
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P12F.ttix
+SP,C:\Bamboozle\BamP12F.tti
 PN,12f00
 SC,0000
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                            W6!  Sp~0Wi 
 OL,2,G]DQuestion 4.            \\ S<|~3oW"5
-OL,3,G]DThe double height code \\Sjzjojz4ht
-OL,4,G]Dtakes effect in which  \ Sb?'~7/w)w>
-OL,5,G]Dof these conditions?   \\S?(}rsx="}w 
+OL,3,G]DWhere was the company  \\Sjzjojz4ht
+OL,4,G]Dbased that built and   \ Sb?'~7/w)w>
+OL,5,G]Ddesigned the Dragon32? \\S?(}rsx="}w 
 OL,6,                W#/|ppppp   Sm}tsssx}?j 
 OL,7,                             S+/}|/a'T
 OL,8,                         T x}Wlp  px,T~
 OL,9,AA``````````````````````````````````````
-OL,10, M  A]G \GThe start of each row         
-OL,13, M  B]D \GThe start of the next row     
-OL,16, M  C]D \GThe next character position   
-OL,19, M  F]D \GImmediately                   
+OL,10, M  A]G \GFrance                        
+OL,13, M  B]D \GScotland                      
+OL,16, M  C]D \GWales                         
+OL,19, M  F]D \GEngland                       
 OL,22,\  D]GPress the colour of your choice.\ 
 OL,23,AA``````````````````````````````````````
 OL,24,A?????    B?????    C?????    F?????    
